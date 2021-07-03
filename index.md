@@ -4,9 +4,21 @@
 ### (Ideally) updated once daily.
 Stories, photos, and a mile count of our journey, day-by-day.
 
-### Markdown
+### Day I: HOH -> Perrysburg -- Let's go to California!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
+
+
+
+
+
+
+
+
+Disregard:
 
 ```markdown
 Syntax highlighted code block
