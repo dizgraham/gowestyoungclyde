@@ -15,7 +15,7 @@ Stories, photos, and a mile count of our journey, day-by-day.
   `Marin and I listened to some slightly-less old-person music, too.`
   <iframe src="https://open.spotify.com/embed/playlist/0YTZ9Zxtx9724ibFMiQqGM" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-- Graham is also keeping us informed of some of the key legal considerations as we enter each new state:
+- Graham, head intellectual of the family, is also keeping us informed of some of the key legal considerations as we enter each new state:
   - New Jersey: the last state in the nation where it is illegal to pump your own gas
   - Pennsylvannia: one may not catch a fish with one's mouth
   - Ohio: for minor crimes, you can't be arrested on a Sunday or July 4th, unless, of course, you're on a river
