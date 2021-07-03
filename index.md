@@ -6,17 +6,19 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 ### Day I: HOH -> Perrysburg -- Let's go to California!
 
-
-
-
-
-
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 Disregard:
 
