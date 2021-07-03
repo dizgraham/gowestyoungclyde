@@ -43,7 +43,7 @@ Stories, photos, and a mile count of our journey, day-by-day.
         repo="dizgraham/gowestyoungclyde"
         issue-term="url"
         label="Comments"
-        theme="icy-dark"
+        theme="boxy-light"
         crossorigin="anonymous"
         async>
 </script>
