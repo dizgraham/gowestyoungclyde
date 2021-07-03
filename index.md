@@ -4,7 +4,7 @@
 ### (Ideally) updated once daily.
 Stories, photos, and a mile count of our journey, day-by-day.
 
-### Day I: HOH -> Perrysburg -- Let's go to California! [7.2.21]
+### Day I: HOH -> Perrysburg -- Let's go to California! (7.2.21)
 
 - A slow and somber start to the day.  After running some errands in Hastings, we drove by our (former) house one last time and headed out of town.  Graham DJ'd, Marin drove, Michael and Nicole got teary and we pulled out onto the Saw Mill.  After a few quiet moments, someone said "well that is very sad, but let's go to California!"  We rallied, pumped the music and were on our way.
 - After weeks of growing agitation over the packing and commotion, Clyde could not have been happier that he was, in fact, getting to go in the car with the family.  That milestone behind him, he quickly found new things to worry about, like whether he should have his head on his seat or in front of it, whether he should stand, sit, or lay down and whether it was ok to sit after turning around once or he needed to do it two or three times first.  It took most of the day for him to start to relax, but he got there (thanks to a little help from Michael, the unlikeliest of sources).
