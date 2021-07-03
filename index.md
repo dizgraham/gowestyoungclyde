@@ -4,7 +4,7 @@
 ### (Ideally) updated once daily.
 Stories, photos, and a mile count of our journey, day-by-day.
 
-### Day I: HOH -> Perrysburg -- Let's go to California! (7.2.21)
+### Day I: HOH --> Perrysburg -- Let's go to California! [7.2.21]
 
 - A slow and somber start to the day.  After running some errands in Hastings, we drove by our (former) house one last time and headed out of town.  Graham DJ'd, Marin drove, Michael and Nicole got teary and we pulled out onto the Saw Mill.  After a few quiet moments, someone said "well that is very sad, but let's go to California!"  We rallied, pumped the music and were on our way.
 - After weeks of growing agitation over the packing and commotion, Clyde could not have been happier that he was, in fact, getting to go in the car with the family.  That milestone behind him, he quickly found new things to worry about, like whether he should have his head on his seat or in front of it, whether he should stand, sit, or lay down and whether it was ok to sit after turning around once or he needed to do it two or three times first.  It took most of the day for him to start to relax, but he got there (thanks to a little help from Michael, the unlikeliest of sources).
@@ -38,6 +38,8 @@ Stories, photos, and a mile count of our journey, day-by-day.
   
 `Blog architect and humble mastermind Graham here -- I'll be embedding each leg of our journey as a maps route every day so that die-hard fans can follow along.`
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6196249.294070953!2d-83.23621778658722!3d40.68471246315143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x89c2ecec4bb07699%3A0x244c514ca04bedfa!2s135%20Rosedale%20Avenue%2C%20Hastings-on-Hudson%2C%20NY!3m2!1d40.9921977!2d-73.8739154!4m5!1s0x883c74e140f2e955%3A0xd5022ce50222ff51!2sPerrysburg%2C%20OH%2043551!3m2!1d41.556996!2d-83.627157!5e0!3m2!1sen!2sus!4v1625321127575!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+### Day II: Perrysburg -> Chicago --> Madison -- [7.3.21]
 
 <script src="https://utteranc.es/client.js"
         repo="dizgraham/gowestyoungclyde"
