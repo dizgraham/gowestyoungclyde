@@ -1,6 +1,6 @@
 ## GoWestYoungClyde
 
-### The Diz's California road trip ###
+### The Dizs' California road trip ###
 
 ### Markdown
 
