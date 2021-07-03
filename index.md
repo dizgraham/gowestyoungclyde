@@ -25,7 +25,8 @@ Stories, photos, and a mile count of our journey, day-by-day.
   - It was an active weather day across the region.  We went through 5 or 6 bands of intense rain, with bright blue skies for hours in between.
   - We've made the usual friends with cars that have shared the road for hours with us, sad to see them go when they exit and wondering if any of them has in front of them the miles that we will cover.
 - Drivers: Marin (about 300 miles), Nicole (about 200) and Michael (the rest)
-  
+  ![image](https://user-images.githubusercontent.com/70125813/124357730-102b4200-dbeb-11eb-9402-0571c153ee69.jpeg)
+
 # Total Miles Covered: 574
   
 `Blog architect and all-around genius Graham here -- I'll be embedding each leg of our journey as a maps route every day so that die-hard fans can follow along.`
