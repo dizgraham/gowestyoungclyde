@@ -39,11 +39,3 @@ Stories, photos, and a mile count of our journey, day-by-day.
   
 `Blog architect and humble mastermind Graham here -- I'll be embedding each leg of our journey as a maps route every day so that die-hard fans can follow along.`
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6196249.294070953!2d-83.23621778658722!3d40.68471246315143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x89c2ecec4bb07699%3A0x244c514ca04bedfa!2s135%20Rosedale%20Avenue%2C%20Hastings-on-Hudson%2C%20NY!3m2!1d40.9921977!2d-73.8739154!4m5!1s0x883c74e140f2e955%3A0xd5022ce50222ff51!2sPerrysburg%2C%20OH%2043551!3m2!1d41.556996!2d-83.627157!5e0!3m2!1sen!2sus!4v1625321127575!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-<script src="https://utteranc.es/client.js"
-        repo="[gowestyoungclyde]"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
