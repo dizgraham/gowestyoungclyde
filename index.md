@@ -1,7 +1,7 @@
 ## GoWestYoungClyde
 
-### The Dizs' California road trip ###
-(Ideally) updated once daily.
+## The Dizs' California road trip
+### (Ideally) updated once daily.
 
 ### Markdown
 
