@@ -12,7 +12,7 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 - Graham, as our DJ and benevolent leader, is keeping a spotify playlist of the songs that we listen to. There's something for everyone to love...
   <iframe src="https://open.spotify.com/embed/playlist/1ZHCIsZQoCSuxnJTpvHY1e" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  `Marin and I (Graham) listened to some slightly-less old-person music, too.`
+  `Marin and I listened to some slightly-less old-person music, too.`
   <iframe src="https://open.spotify.com/embed/playlist/0YTZ9Zxtx9724ibFMiQqGM" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 - Graham is also keeping us informed of some of the key legal considerations as we enter each new state:
