@@ -39,7 +39,23 @@ Stories, photos, and a mile count of our journey, day-by-day.
 `Blog architect and humble mastermind Graham here -- I'll be embedding each leg of our journey as a maps route every day so that die-hard fans can follow along.`
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6196249.294070953!2d-83.23621778658722!3d40.68471246315143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x89c2ecec4bb07699%3A0x244c514ca04bedfa!2s135%20Rosedale%20Avenue%2C%20Hastings-on-Hudson%2C%20NY!3m2!1d40.9921977!2d-73.8739154!4m5!1s0x883c74e140f2e955%3A0xd5022ce50222ff51!2sPerrysburg%2C%20OH%2043551!3m2!1d41.556996!2d-83.627157!5e0!3m2!1sen!2sus!4v1625321127575!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-### Day II: Perrysburg -> Chicago --> Madison -- [7.3.21]
+### Day II: Perrysburg -> Chicago --> Madison -- Go Badgers! [7.3.21]
+
+- An early and quiet start to day 2.  The Home2 Suites breakfast of cinnamon rolls, bagels, waffles and lucky charms wasn't enough to get this crowd perked up.  Graham will load the playlist later.  It didn't include Billy Ray Cyrus, but it might as well have.
+- In a move reminiscent of the days of road atlases, Nicole studied our route and noticed that we would be passing right by South Bend and we couldn't pass up the chance to see the old stomping grounds of that great Notre Dame legend, Rudy Ruettiger.  Wow - what a beautiful campus!  
+- From there, it was on to Chicago.  We had scheduled in a few hours so we could see a bit of the city and have lunch.  We wandered around downtown, mostly Grant and Millenium parks, and had an amazing lunch of deep dish and stuffed pizza at Chicago's Pizzeria (many thanks to Erik for the recommendation).  We also spent a little time wandering around the Lake View neighborhood, which was very cool.
+- Fueled by some dark matter (a coffee shop, not a new fuel source, although maybe that's what powering those UFOs), we headed for the main event of the trip - Madison, WI!
+  - 2 hours later, we pulled into Madison.  What a beautiful place!
+  - We headed straight for Marin's dorm, Adams, which is SO COOL!  
+  - Adams is in the Lakeside dorm complex - aptly named for its proximity to Lake Mendota, which is about as picturesque as it gets.  (For anyone who hasn't read Crossing to Safety by Wallace Stegner, we highly recommend it.  The lake features prominently in the beginning of the story.)
+  - The evening in Madison featured some choice time, with Graham hanging out in the hotel listening to music, Marin and Clyde going exploring and Nicole and Michael planting themselves on the hotel's rooftop bar.
+- An update on Clyde: he's now totally comfortable in the van, still mystified by elevators and has gone 2 for 2 in days not peeing in the hotel.  Good boy, Clyde.
+- Graham's legal considerations:
+  - Indiana: Fishing with a fire arm is legal, as is fishing with one's bare hands; not clear whether other means of fishing are permissible.
+  - Illinois: It is against the law to sleep in a cheese shop, or ride a bike with no hands, no feet or otherwise in an acrobatic manner.
+  - Wisconsin: If you sell home baked cookies, bring enough to feed yourself for 6 months, because that's how long you could end up in the slammer.
+- Thanks to John for some great contributions to the playlist!  If anyone else has any suggestions, text them to DJ G-Dizzy (TM by Darren).
+- Miles: 395 (Even split between M&M)
 
 <script src="https://utteranc.es/client.js"
         repo="dizgraham/gowestyoungclyde"
