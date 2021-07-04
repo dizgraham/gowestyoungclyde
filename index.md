@@ -45,6 +45,8 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 - An early and quiet start to day 2.  The Home2 Suites breakfast of cinnamon rolls, bagels, waffles and lucky charms wasn't enough to get this crowd perked up.  Graham, in all of his everlasting greatness, has reattached the Spotify playlist here. It individually-selected music for hours, but the tunes started pumping again after our brief stop at Notre Dame.
 
+
+
   `Because it's the same playlist, you'd have to scroll down to see the new stuff. We started off today with "A Little Honey" by Nathaniel Rateliff.`
   <iframe src="https://open.spotify.com/embed/playlist/1ZHCIsZQoCSuxnJTpvHY1e" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - In a move reminiscent of the days of road atlases, Nicole studied our route and noticed that we would be passing right by South Bend and we couldn't pass up the chance to see the old stomping grounds of that great Notre Dame legend, Rudy Ruettiger.  Wow - what a beautiful campus!  
