@@ -43,7 +43,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 ### TO BE UPDATED WITH GRAPHICS, LINKS AND OTHER GRAHAM WIZARDRY 
 
-- An early and quiet start to day 2.  The Home2 Suites breakfast of cinnamon rolls, bagels, waffles and lucky charms wasn't enough to get this crowd perked up.  Graham will load the playlist later.  It didn't include Billy Ray Cyrus, but it might as well have.
+- An early and quiet start to day 2.  The Home2 Suites breakfast of cinnamon rolls, bagels, waffles and lucky charms wasn't enough to get this crowd perked up.  Graham, in all of his everlasting greatness, has reattached the Spotify playlist here. It individually-selected music for hours, but the tunes started pumping again after our brief stop at Notre Dame.
+  `Because it's the same playlist, you'd have to scroll down to see the new stuff. We started off today with "A Little Honey" by Nathaniel Rateliff.`
+  <iframe src="https://open.spotify.com/embed/playlist/1ZHCIsZQoCSuxnJTpvHY1e" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - In a move reminiscent of the days of road atlases, Nicole studied our route and noticed that we would be passing right by South Bend and we couldn't pass up the chance to see the old stomping grounds of that great Notre Dame legend, Rudy Ruettiger.  Wow - what a beautiful campus!  
 - From there, it was on to Chicago.  We had scheduled in a few hours so we could see a bit of the city and have lunch.  We wandered around downtown, mostly Grant and Millenium parks, and had an amazing lunch of deep dish and stuffed pizza at Chicago's Pizzeria (many thanks to Erik for the recommendation).  We also spent a little time wandering around the Lake View neighborhood, which was very cool.
 - Fueled by some dark matter (a coffee shop, not a new fuel source, although maybe that's what powering those UFOs), we headed for the main event of the trip - Madison, WI!
@@ -58,6 +60,11 @@ Stories, photos, and a mile count of our journey, day-by-day.
   - Wisconsin: If you sell home baked cookies, bring enough to feed yourself for 6 months, because that's how long you could end up in the slammer.
 - Thanks to John for some great contributions to the playlist!  If anyone else has any suggestions, text them to DJ G-Dizzy (TM by Darren).
 - Miles: 395 (Even split between M&M)
+
+# Total Miles Covered: 969
+
+
+
 
 <script src="https://utteranc.es/client.js"
         repo="dizgraham/gowestyoungclyde"
