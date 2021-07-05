@@ -49,11 +49,24 @@ Stories, photos, and a mile count of our journey, day-by-day.
   <iframe src="https://open.spotify.com/embed/playlist/1ZHCIsZQoCSuxnJTpvHY1e" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - In a move reminiscent of the days of road atlases, Nicole studied our route and noticed that we would be passing right by South Bend and we couldn't pass up the chance to see the old stomping grounds of that great Notre Dame legend, Rudy Ruettiger.  Wow - what a beautiful campus!  
 - From there, it was on to Chicago.  We had scheduled in a few hours so we could see a bit of the city and have lunch.  We wandered around downtown, mostly Grant and Millenium parks, and had an amazing lunch of deep dish and stuffed pizza at Chicago's Pizzeria (many thanks to Erik for the recommendation).  We also spent a little time wandering around the Lake View neighborhood, which was very cool.
+![image](https://user-images.githubusercontent.com/70125813/124486055-d422e900-dd72-11eb-99fb-b0898c1de0d0.jpeg)
+
+![image](https://user-images.githubusercontent.com/70125813/124486018-c66d6380-dd72-11eb-9e04-6aaedc03b610.jpeg)
+
 - Fueled by some dark matter (a coffee shop, not a new fuel source, although maybe that's what powering those UFOs), we headed for the main event of the trip - Madison, WI!
+![image](https://user-images.githubusercontent.com/70125813/124485251-0253f900-dd72-11eb-8682-a0bd12dfd755.jpeg)
+
   - 2 hours later, we pulled into Madison.  What a beautiful place!
+![image](https://user-images.githubusercontent.com/70125813/124485378-1ac41380-dd72-11eb-9406-420935159f2a.jpeg)
+
   - We headed straight for Marin's dorm, Adams, which is SO COOL!  
+
   - Adams is in the Lakeside dorm complex - aptly named for its proximity to Lake Mendota, which is about as picturesque as it gets.  (For anyone who hasn't read Crossing to Safety by Wallace Stegner, we highly recommend it.  The lake features prominently in the beginning of the story.)
+![image](https://user-images.githubusercontent.com/70125813/124486961-bf932080-dd73-11eb-9fc7-35738335bae6.jpeg)
+
   - The evening in Madison featured some choice time, with Graham hanging out in the hotel listening to music, Marin and Clyde going exploring and Nicole and Michael planting themselves on the hotel's rooftop bar.
+![image](https://user-images.githubusercontent.com/70125813/124487177-0254f880-dd74-11eb-97b4-ce25fc60ee13.jpeg)
+
 - An update on Clyde: he's now totally comfortable in the van, still mystified by elevators and has gone 2 for 2 in days not peeing in the hotel.  Good boy, Clyde.
 - Graham's legal considerations:
   - Indiana: Fishing with a fire arm is legal, as is fishing with one's bare hands; not clear whether other means of fishing are permissible.
