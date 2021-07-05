@@ -41,9 +41,10 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 ### Day II: Perrysburg -> Chicago --> Madison -- Go Badgers! [7.3.21]
 
-### TO BE UPDATED WITH GRAPHICS, LINKS AND OTHER GRAHAM WIZARDRY 
+- An early and quiet start to day 2.  The Home2 Suites breakfast of cinnamon rolls, bagels, waffles and lucky charms wasn't enough to get this crowd perked up.  
+![image](https://user-images.githubusercontent.com/70125813/124494454-798e8a80-dd7c-11eb-9775-50d08f886bf7.jpeg)
 
-- An early and quiet start to day 2.  The Home2 Suites breakfast of cinnamon rolls, bagels, waffles and lucky charms wasn't enough to get this crowd perked up.  Graham, in all of his everlasting greatness, has reattached the Spotify playlist here. Everyone listened individually for a couple hours, but the tunes started pumping again after our brief stop at Notre Dame.
+- Graham, in all of his everlasting greatness, has reattached the Spotify playlist here. Everyone listened individually for a couple hours, but the tunes started pumping again after our brief stop at Notre Dame.
 
   `Because it's the same playlist, you'd have to scroll down to see the new stuff. We started off today with "A Little Honey" by Nathaniel Rateliff.`
   <iframe src="https://open.spotify.com/embed/playlist/1ZHCIsZQoCSuxnJTpvHY1e" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -74,6 +75,27 @@ Stories, photos, and a mile count of our journey, day-by-day.
   - Wisconsin: If you sell home baked cookies, bring enough to feed yourself for 6 months, because that's how long you could end up in the slammer.
 - Thanks to John for some great contributions to the playlist!  If anyone else has any suggestions, text them to DJ G-Dizzy (TM by Darren).
 - Miles: 395 (Even split between M&M)
+
+### Day III: July 4th in Madison [7.4.21]
+
+- We spent the day in Madison, exploring the school and town.
+- The campus is connected to the capitol building by State Street.  It's about a 20 minute walk from one end to the other, and it's great - it's full of shops, restaurants and bars, has a great energy at night and a nice feel during the day.  We had coffee near the school and breakfast near the capitol.
+- The four of us then set out on bikes to get a more thorough look at the campus.  We saw a few of the buildings where Marin will have classes next semester, as well as Camp Randall, the football stadium, and the Memorial Union, which is the main student center but also a gathering place for the town (more on that later).
+![image](https://user-images.githubusercontent.com/70125813/124494117-113fa900-dd7c-11eb-8d66-4125e71f9291.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124494202-287e9680-dd7c-11eb-8e9a-888e7067b4bb.jpeg)
+
+![image](https://user-images.githubusercontent.com/70125813/124494026-f2d9ad80-dd7b-11eb-9541-4eccd18651cf.jpeg)
+
+- It was a very hot day, so we headed back to the hotel after a while for downtime.  Marin and Michael had an intense card battle across multiple games, while Graham worked on some AV priorities and Nicole read up on Madison.
+- Michael and Nicole then headed back to the Memorial Union to sit on the terrace, which is a huge and very cool space overlooking lake Mendota.  With a table in the shade, refreshments readily available and a beautiful lake to look at, it was easy to let time pass by for a while.  It's fun to think about all of the good times Marin will have here starting in just a couple of months.
+![image](https://user-images.githubusercontent.com/70125813/124494046-fb31e880-dd7b-11eb-9b8a-d06b799ad25c.jpeg)
+
+- They followed that with another bike ride around campus (including the Kohl Center, home of our beloved Badger basketball), a check in with the kids and then a return to the terrace.
+- All four of us enjoyed dinner, people watching and fireworks on the terrace into the evening.  
+- ![image](https://user-images.githubusercontent.com/70125813/124494259-3c29fd00-dd7c-11eb-8360-9c8119c68fa4.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124494275-41874780-dd7c-11eb-8cb6-f1985e0661aa.jpeg)
+
+- Miles: 0
 
 # Total Miles Covered: 969
 
