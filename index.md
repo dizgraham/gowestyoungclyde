@@ -49,7 +49,10 @@ Stories, photos, and a mile count of our journey, day-by-day.
   `Because it's the same playlist, you'd have to scroll down to see the new stuff. We started off today with "A Little Honey" by Nathaniel Rateliff.`
   <iframe src="https://open.spotify.com/embed/playlist/1ZHCIsZQoCSuxnJTpvHY1e" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 - In a move reminiscent of the days of road atlases, Nicole studied our route and noticed that we would be passing right by South Bend and we couldn't pass up the chance to see the old stomping grounds of that great Notre Dame legend, Rudy Ruettiger.  Wow - what a beautiful campus!  
-- From there, it was on to Chicago.  We had scheduled in a few hours so we could see a bit of the city and have lunch.  We wandered around downtown, mostly Grant and Millenium parks, and had an amazing lunch of deep dish and stuffed pizza at Chicago's Pizzeria (many thanks to Erik for the recommendation).  We also spent a little time wandering around the Lake View neighborhood, which was very cool.
+- From there, it was on to Chicago.  
+![image](https://user-images.githubusercontent.com/70125813/124494960-1c470900-dd7d-11eb-858c-baab9d5d54f6.jpeg)
+
+- We had scheduled in a few hours so we could see a bit of the city and have lunch.  We wandered around downtown, mostly Grant and Millenium parks, and had an amazing lunch of deep dish and stuffed pizza at Chicago's Pizzeria (many thanks to Erik for the recommendation).  We also spent a little time wandering around the Lake View neighborhood, which was very cool.
 ![image](https://user-images.githubusercontent.com/70125813/124486055-d422e900-dd72-11eb-99fb-b0898c1de0d0.jpeg)
 
 ![image](https://user-images.githubusercontent.com/70125813/124486018-c66d6380-dd72-11eb-9e04-6aaedc03b610.jpeg)
