@@ -34,7 +34,7 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - Drivers: Marin (about 300 miles), Nicole (about 200) and Michael (the rest)
   ![image](https://user-images.githubusercontent.com/70125813/124357730-102b4200-dbeb-11eb-9402-0571c153ee69.jpeg)
 
-# Total Miles Covered: 574
+#### Miles Covered Today: 574
   
 `Blog architect and humble mastermind Graham here -- I'll be embedding each leg of our journey as a maps route every day so that die-hard fans can follow along.`
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d6196249.294070953!2d-83.23621778658722!3d40.68471246315143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x89c2ecec4bb07699%3A0x244c514ca04bedfa!2s135%20Rosedale%20Avenue%2C%20Hastings-on-Hudson%2C%20NY!3m2!1d40.9921977!2d-73.8739154!4m5!1s0x883c74e140f2e955%3A0xd5022ce50222ff51!2sPerrysburg%2C%20OH%2043551!3m2!1d41.556996!2d-83.627157!5e0!3m2!1sen!2sus!4v1625321127575!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -77,7 +77,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
   - Illinois: It is against the law to sleep in a cheese shop, or ride a bike with no hands, no feet or otherwise in an acrobatic manner.
   - Wisconsin: If you sell home baked cookies, bring enough to feed yourself for 6 months, because that's how long you could end up in the slammer.
 - Thanks to John for some great contributions to the playlist!  If anyone else has any suggestions, text them to DJ G-Dizzy (TM by Darren).
-- Miles: 395 (Even split between M&M)
+- Miles were evenly split between M&M
+
+#### Miles Covered Today: 395
 
 ### Day III: July 4th in Madison [7.4.21]
 
@@ -98,7 +100,7 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - ![image](https://user-images.githubusercontent.com/70125813/124494259-3c29fd00-dd7c-11eb-8360-9c8119c68fa4.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124494275-41874780-dd7c-11eb-8cb6-f1985e0661aa.jpeg)
 
-- Miles: 0
+#### Miles Covered Today: 0
 
 # Total Miles Covered: 969
 
