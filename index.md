@@ -81,6 +81,8 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 #### Miles Covered Today: 395
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d3021927.5430004057!2d-88.73064456065603!3d42.29770779273158!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x883c74e140f2e955%3A0xd5022ce50222ff51!2sPerrysburg%2C%20OH%2043551!3m2!1d41.556996!2d-83.627157!4m5!1s0x881132c44a61d313%3A0x974ad9b36fa33204!2sSouth%20Bend%2C%20IN!3m2!1d41.676354499999995!2d-86.25198979999999!4m5!1s0x880e2c3cd0f4cbed%3A0xafe0a6ad09c0c000!2sChicago%2C%20IL!3m2!1d41.8781136!2d-87.6297982!4m5!1s0x8806536d3a2019ff%3A0x4e0cfcb5ba484198!2sMadison%2C%20WI!3m2!1d43.0730517!2d-89.4012302!5e0!3m2!1sen!2sus!4v1625504582125!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 ### Day III: July 4th in Madison [7.4.21]
 
 - We spent the day in Madison, exploring the school and town.
