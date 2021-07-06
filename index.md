@@ -90,13 +90,10 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - The four of us then set out on bikes to get a more thorough look at the campus.  We saw a few of the buildings where Marin will have classes next semester, as well as Camp Randall, the football stadium, and the Memorial Union, which is the main student center but also a gathering place for the town (more on that later).
 ![image](https://user-images.githubusercontent.com/70125813/124494117-113fa900-dd7c-11eb-8d66-4125e71f9291.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124494202-287e9680-dd7c-11eb-8e9a-888e7067b4bb.jpeg)
-
 ![image](https://user-images.githubusercontent.com/70125813/124494026-f2d9ad80-dd7b-11eb-9541-4eccd18651cf.jpeg)
-
 - It was a very hot day, so we headed back to the hotel after a while for downtime.  Marin and Michael had an intense card battle across multiple games, while Graham worked on some AV priorities and Nicole read up on Madison.
 - Michael and Nicole then headed back to the Memorial Union to sit on the terrace, which is a huge and very cool space overlooking lake Mendota.  With a table in the shade, refreshments readily available and a beautiful lake to look at, it was easy to let time pass by for a while.  It's fun to think about all of the good times Marin will have here starting in just a couple of months.
 ![image](https://user-images.githubusercontent.com/70125813/124494046-fb31e880-dd7b-11eb-9b8a-d06b799ad25c.jpeg)
-
 - They followed that with another bike ride around campus (including the Kohl Center, home of our beloved Badger basketball), a check in with the kids and then a return to the terrace.
 - All four of us enjoyed dinner, people watching and fireworks on the terrace into the evening.  
 - ![image](https://user-images.githubusercontent.com/70125813/124494259-3c29fd00-dd7c-11eb-8360-9c8119c68fa4.jpeg)
@@ -110,7 +107,6 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - Marin was behind the wheel again to start the day - such a luxury for her parents! - and powered through mile after mile.  We drove up the isthmus (Trivia: which other prominent US city sits on an isthmus?) and headed west, through the rest of Wisconsin, aross Minnesota almost with stopping and into South Dakota.  
 - The landscape was beautiful, with cornfields and other crops covering rolling hills as far as the eye could see.  This is also an area that has invested heavily in electricity-generating windmills.
 ![image](https://user-images.githubusercontent.com/70125813/124623930-08b1a600-de42-11eb-95cc-9447ae230ae6.jpeg)
-
 - There's not a whole lot to report from the first 8 hours of the drive, but then things got exciting.  We noticed a storm in the forecast for that evening in Chamberlain.  The sky was definitely dark ahead of us in the distance, but we didn't think much of it.  Marin casually wondered out loud how one stays safe in a tornado when riding in a car
   - rule #1: don't be in a car
   - rule #2: if you are in a car, don't try to outrun a tornado; put your head below the windows and pray 
@@ -120,24 +116,19 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/124624979-0439bd00-de43-11eb-9397-643ee4f7d2a3.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124624200-4ca4ab00-de42-11eb-804b-6bb7872030a2.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124624211-50383200-de42-11eb-8264-6cc8f7105dd9.jpeg)
-
 - Chamberlain is a quite town, seemingly driven by the fishing on the Missouri and its tributaries.  
   - We ate dinner at a place in Chamberlain called Charly's, which is owned by a 92-year old woman who still cooks the food every day.  Delicious!  Graham wasn't into taking pictures, but we still had fun.  (Marin decided to take a night off from going out.)
 ![image](https://user-images.githubusercontent.com/70125813/124625097-203d5e80-de43-11eb-87de-9c0e917fe904.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124625127-27fd0300-de43-11eb-952a-898c9b1cb82f.jpeg)
-
   - We picked up dessert at Casey's general store (proprietor unknown, but good to see Chamberlain showing out with gender neutral names).
 ![image](https://user-images.githubusercontent.com/70125813/124625209-3b0fd300-de43-11eb-9338-17cf90adb11b.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124625227-3e0ac380-de43-11eb-9b92-2a2e7316251a.jpeg)
-
  Other notes:
   - We crossed two mighty rivers - first the Mississippi and then the Missouri
  ![image](https://user-images.githubusercontent.com/70125813/124625260-4531d180-de43-11eb-88b8-fe9fc9d7a17e.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124625297-4cf17600-de43-11eb-8493-d08b4880e892.jpeg)
-
   - Glacial sea stacks in Minnesota were a surprise treat!
   - ![image](https://user-images.githubusercontent.com/70125813/124625335-524ec080-de43-11eb-9253-9207e89fe276.jpeg)
-
 
 #### Miles Covered Today: 562
 
