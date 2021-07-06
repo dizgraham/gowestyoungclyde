@@ -104,7 +104,44 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 #### Miles Covered Today: 0
 
-# Total Miles Covered: 969
+### Day IV: Madison --> Chamberlain, SD -- Storm! [7.4.21]
+
+- We loved our time and Madison and were not eager to leave, but we had a long day of driving ahead of us so we got on the road fairly early.
+- Marin was behind the wheel again to start the day - such a luxury for her parents! - and powered through mile after mile.  We drove up the isthmus (Trivia: which other prominent US city sits on an isthmus?) and headed west, through the rest of Wisconsin, aross Minnesota almost with stopping and into South Dakota.  
+- The landscape was beautiful, with cornfields and other crops covering rolling hills as far as the eye could see.  This is also an area that has invested heavily in electricity-generating windmills.
+![image](https://user-images.githubusercontent.com/70125813/124623930-08b1a600-de42-11eb-95cc-9447ae230ae6.jpeg)
+
+- There's not a whole lot to report from the first 8 hours of the drive, but then things got exciting.  We noticed a storm in the forecast for that evening in Chamberlain.  The sky was definitely dark ahead of us in the distance, but we didn't think much of it.  Marin casually wondered out loud how one stays safe in a tornado when riding in a car
+  - rule #1: don't be in a car
+  - rule #2: if you are in a car, don't try to outrun a tornado; put your head below the windows and pray 
+  - (To put the grandparents' hearts at ease, there are no tornados in this story.) 
+- As we drove on (Michael now behind the wheel), that dark sky started to take on a greenish hue and the car got quiet. Then a gust of wind moved the car half way into the other lane.    
+  - We drove into what seemed like a green snow globe, with very high winds, but no rain.  After about 3-4 miles of being inside it, we pulled off at an exit. We needed gas anyway, but also wanted to see how the locals were reacting to the storm. They weren't huddling in bunkers, so we got back on the highway. The wind was so strong that we were only going 40-50 mph but the RPMs on the engine were where they had been when we were going 85 (speed limit is 80!). After a few more minutes the rain starting coming down hard as hell. The sky turned back to a normal gray and our worries about a tornado subsided a bit. After about 10-15 minutes we were through the worst of it. The temperature had dropped 30 degrees (from 97 to 67)! 
+![image](https://user-images.githubusercontent.com/70125813/124624979-0439bd00-de43-11eb-9397-643ee4f7d2a3.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124624200-4ca4ab00-de42-11eb-804b-6bb7872030a2.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124624211-50383200-de42-11eb-8264-6cc8f7105dd9.jpeg)
+
+- Chamberlain is a quite town, seemingly driven by the fishing on the Missouri and its tributaries.  
+  - We ate dinner at a place in Chamberlain called Charly's, which is owned by a 92-year old woman who still cooks the food every day.  Delicious!  Graham wasn't into taking pictures, but we still had fun.  (Marin decided to take a night off from going out.)
+![image](https://user-images.githubusercontent.com/70125813/124625097-203d5e80-de43-11eb-87de-9c0e917fe904.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124625127-27fd0300-de43-11eb-952a-898c9b1cb82f.jpeg)
+
+  - We picked up dessert at Casey's general store (proprietor unknown, but good to see Chamberlain showing out with gender neutral names).
+![image](https://user-images.githubusercontent.com/70125813/124625209-3b0fd300-de43-11eb-9338-17cf90adb11b.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124625227-3e0ac380-de43-11eb-9b92-2a2e7316251a.jpeg)
+
+ Other notes:
+  - We crossed two mighty rivers - first the Mississippi and then the Missouri
+ ![image](https://user-images.githubusercontent.com/70125813/124625260-4531d180-de43-11eb-88b8-fe9fc9d7a17e.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124625297-4cf17600-de43-11eb-8493-d08b4880e892.jpeg)
+
+  - Glacial sea stacks in Minnesota were a surprise treat!
+  - ![image](https://user-images.githubusercontent.com/70125813/124625335-524ec080-de43-11eb-9253-9207e89fe276.jpeg)
+
+
+#### Miles Covered Today: 562
+
+# Total Miles Covered: 1,531
 
 
 
