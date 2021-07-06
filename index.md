@@ -129,6 +129,8 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/124625297-4cf17600-de43-11eb-8493-d08b4880e892.jpeg)
   - Glacial sea stacks in Minnesota were a surprise treat!
   - ![image](https://user-images.githubusercontent.com/70125813/124625335-524ec080-de43-11eb-9253-9207e89fe276.jpeg)
+  - We are loving the songs suggestions!  The DJ duties have moved around a bit, so we don't have everything in one playlist just yet, but that is to-come.
+  - Map of the drive is to come as well.
 
 #### Miles Covered Today: 562
 
