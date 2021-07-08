@@ -101,9 +101,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 #### Miles Covered Today: 0
 
-### Day IV: Madison --> Chamberlain, SD -- Storm! [7.4.21]
+### Day IV: Madison --> Chamberlain, SD -- Storm! [7.5.21]
 
-- We loved our time and Madison and were not eager to leave, but we had a long day of driving ahead of us so we got on the road fairly early.
+- We loved our time in Madison and were not eager to leave, but we had a long day of driving ahead of us so we got on the road fairly early.
 - Marin was behind the wheel again to start the day - such a luxury for her parents! - and powered through mile after mile.  We drove up the isthmus (Trivia: which other prominent US city sits on an isthmus?) and headed west, through the rest of Wisconsin, aross Minnesota almost with stopping and into South Dakota.  
 - The landscape was beautiful, with cornfields and other crops covering rolling hills as far as the eye could see.  This is also an area that has invested heavily in electricity-generating windmills.
 ![image](https://user-images.githubusercontent.com/70125813/124623930-08b1a600-de42-11eb-95cc-9447ae230ae6.jpeg)
@@ -134,7 +134,37 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 #### Miles Covered Today: 562
 
-# Total Miles Covered: 1,531
+### Day V: Chamberlain --> Deadwood, SD -- Badlands and Blackhills [7.6.21]
+
+- We left Chamberlain and headed for the Badlands.  On the way into the park, we pulled off and took a look at a preserved homesteader’s sod house from 1909, the signs for which boasted, among other things, rare white prairie dogs.  Once we walked past them, the prairie dogs (deemed vermin by Marin) popped out of their holes and looked around. This has been our exclusive wildlife sighting thus far, sigh.
+![image](https://user-images.githubusercontent.com/70125813/124856381-a226a800-df67-11eb-8210-1d09d78e8a68.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856484-d5693700-df67-11eb-9d15-4eaa5cd3aeb7.jpeg)
+
+- A note about the Badlands: The Lakota and French fur trappers agreed the land was inhospitable and difficult to traverse so the name has stuck.  The striated landforms are clayey structures that look like drip castles (Marin.) Graham was inspired to climb up onto the top of one so that he was the highest point in the landscape. The reddish layers of the Badlands contain fossilized material from sea creatures when the land was under water.  As tectonic plates pushed against one another, creating mountains to the west, the sea under covering what is now the Badlands grew shallower, so the only creatures that developed in this area were invertebrates.  
+![image](https://user-images.githubusercontent.com/70125813/124856567-fb8ed700-df67-11eb-9e4b-5b5c01d3bdac.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856573-ffbaf480-df67-11eb-8a9c-e18289e7ae11.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856660-27aa5800-df68-11eb-9719-0cd3edaf1ed0.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856922-a0a9af80-df68-11eb-871a-09b2fd390cac.jpeg)
+
+- We drove the scenic loop of this exotic landscape and exited at Wall, SD where we secured a bumper sticker (free!) for Marin’s friend from Wall Drug.
+- We had a fantastic lunch in Rapid City and were charmed by the old western buildings, numerous book and antique stores, and art alley.  We’ll take a college town anywhere.
+- After lunch we drove to Mount Rushmore.  It was powerful and beautiful and we loved it.  An historian had proposed a different collection of subjects, but the sculptor, Gutzon Borglum chose the four presidents to represent the birth, growth, development and preservation of our country.
+![image](https://user-images.githubusercontent.com/70125813/124856975-b61ed980-df68-11eb-92bc-801b98cedae4.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856989-bc14ba80-df68-11eb-942c-6b46601a2e00.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124857145-039b4680-df69-11eb-9cbc-d4f4f79c6565.jpeg)
+
+- We drove all around the Black Hills, doused in thick veering of ponderosa pines and saw the stone profile of Crazy Horse, an ambitious project still under construction.  
+- ![image](https://user-images.githubusercontent.com/70125813/124857339-6096fc80-df69-11eb-9799-16056ce856d0.jpeg)
+
+- We ended our day in the town of Deadwood, SD.  Deadwood has been placed on the national register of historic places, which is not surprising when you see all of the preserved buildings from the late 19th century and early 20th century and read about its Wild West history.  We enjoyed a re-enactment of a shootout in the the street from the roof of the social club, overtop of saloon #10. 
+![Uploading image.jpeg…]()
+![Uploading image.jpeg…]()
+
+- The casino floor of our hotel was created through adaptive re-use of the Homestake Slime Plant which extracted gold from slime (a by-product of crushed ore that is suspended in water.) The gold came from the largest and deepest gold mine in North America in the town of Lead.  The casino is built on seven-foot thick concrete poured in 1935 with rafters overhead of Douglas fir from the Pacific Northwest, fitted into mortise and tenon joints.
+
+#### Miles Covered Today: 350
+
+# Total Miles Covered: 1,881
 
 
 
