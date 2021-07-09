@@ -136,11 +136,11 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 ### Day V: Chamberlain --> Deadwood, SD -- Badlands and Blackhills [7.6.21]
 
-- We left Chamberlain and headed for the Badlands.  On the way into the park, we pulled off and took a look at a preserved homesteader’s sod house from 1909, the signs for which boasted, among other things, rare white prairie dogs.  Once we walked past them, the prairie dogs (deemed vermin by Marin) popped out of their holes and looked around. This has been our exclusive wildlife sighting thus far, sigh.
+- We left Chamberlain and headed for the Badlands.  On the way into the park, we pulled off and took a look at a preserved homesteader’s sod house from 1909, the signs for which boasted, among other things, rare white prairie dogs.  Once we walked past them, the prairie dogs (deemed vermin by Marin) popped out-our exclusive wildlife sighting thus far, sigh.
 ![image](https://user-images.githubusercontent.com/70125813/124856381-a226a800-df67-11eb-8210-1d09d78e8a68.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856484-d5693700-df67-11eb-9d15-4eaa5cd3aeb7.jpeg)
 
-- A note about the Badlands: The Lakota and French fur trappers agreed the land was inhospitable and difficult to traverse so the name has stuck.  The striated landforms are clayey structures that look like drip castles (Marin.) Graham was inspired to climb up onto the top of one so that he was the highest point in the landscape. The reddish layers of the Badlands contain fossilized material from sea creatures when the land was under water.  As tectonic plates pushed against one another, creating mountains to the west, the sea under covering what is now the Badlands grew shallower, so the only creatures that developed in this area were invertebrates.  
+- A note about the Badlands: The Lakota and French fur trappers agreed the land was inhospitable and difficult to traverse so the name has stuck.  The striated landforms are clayey structures that look like drip castles (Marin.) Graham was inspired to climb up onto the top of one so that he was the highest point in the landscape. The reddish layers of the Badlands contain fossilized material from sea creatures when the land was under water.
 ![image](https://user-images.githubusercontent.com/70125813/124856567-fb8ed700-df67-11eb-9e4b-5b5c01d3bdac.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856573-ffbaf480-df67-11eb-8a9c-e18289e7ae11.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856660-27aa5800-df68-11eb-9719-0cd3edaf1ed0.jpeg)
@@ -157,14 +157,35 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - ![image](https://user-images.githubusercontent.com/70125813/124857339-6096fc80-df69-11eb-9799-16056ce856d0.jpeg)
 
 - We ended our day in the town of Deadwood, SD.  Deadwood has been placed on the national register of historic places, which is not surprising when you see all of the preserved buildings from the late 19th century and early 20th century and read about its Wild West history.  We enjoyed a re-enactment of a shootout in the the street from the roof of the social club, overtop of saloon #10. 
-![Uploading image.jpeg…]()
-![Uploading image.jpeg…]()
+![image](https://user-images.githubusercontent.com/70125813/125122849-33566580-e0b3-11eb-94f4-c47e5153cfb0.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125123008-5ed95000-e0b3-11eb-825f-7cdaeab05434.jpeg)
 
 - The casino floor of our hotel was created through adaptive re-use of the Homestake Slime Plant which extracted gold from slime (a by-product of crushed ore that is suspended in water.) The gold came from the largest and deepest gold mine in North America in the town of Lead.  The casino is built on seven-foot thick concrete poured in 1935 with rafters overhead of Douglas fir from the Pacific Northwest, fitted into mortise and tenon joints.
 
 #### Miles Covered Today: 350
 
-# Total Miles Covered: 1,881
+### Day V: Deadwood, SD --> Bozeman, MT -- Little Bighorn and Lots of Driving [7.7.21]
+
+- Deadwood has a on old gas station, called the Pump House, that’s been converted into a breakfast spot in the morning, a pizza place in the evening and a glass blowing studio at all hours. We liked it so much Michael and Nicole went twice before leaving Deadwood.
+![image](https://user-images.githubusercontent.com/70125813/125123033-68fb4e80-e0b3-11eb-937d-ef07e32b3593.jpeg)
+- The first time they went was after their morning run, the first stop on which was Mt. Moriah Cemetery, which is the final resting place of Wild Bill, Calamity Jane and lot of other people who died a long time ago.  
+![image](https://user-images.githubusercontent.com/70125813/125123053-6f89c600-e0b3-11eb-8636-c9c623c79db8.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125123076-76183d80-e0b3-11eb-803c-eb2caa9b2d71.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125123228-a19b2800-e0b3-11eb-9499-d2d8b508b7b3.jpeg)
+- Other sites on the run included a vintage motorcycle restoration stop and a liquor store whose name suggests its clientele is of the place.  
+![image](https://user-images.githubusercontent.com/70125813/125123372-d14a3000-e0b3-11eb-85f6-64446ba95469.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125123393-d6a77a80-e0b3-11eb-9718-78af587a7ba3.jpeg)
+
+- We left Deadwood happy to have seen it but not feeling any strong desire to return.
+- We drove through the Northern Cheyenne and Crow reservations and miles and miles of ranch lands.  
+- Nicole explored Little Big Horn while the rest of the family picked up lunch ("indian" tacos, which were delicious - basically, a taco with a sopapilla as a shell). 
+![image](https://user-images.githubusercontent.com/70125813/125123414-db6c2e80-e0b3-11eb-882a-9e2a1d4a34d6.jpeg)
+ 
+- We were stunned by the landscape heading into Bozeman - too stunned to take photos.
+
+### Miles covered today: 430 (all Marin)
+
+# Total Miles Covered: 2,311
 
 
 
