@@ -160,8 +160,6 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - We ended our day in the town of Deadwood, SD.  Deadwood has been placed on the national register of historic places, which is not surprising when you see all of the preserved buildings from the late 19th century and early 20th century and read about its Wild West history.  We enjoyed a re-enactment of a shootout in the the street from the roof of the social club, overtop of saloon #10. 
 ![image](https://user-images.githubusercontent.com/70125813/124856975-b61ed980-df68-11eb-92bc-801b98cedae4.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856989-bc14ba80-df68-11eb-942c-6b46601a2e00.jpeg)
-![image](https://user-images.githubusercontent.com/70125813/125122849-33566580-e0b3-11eb-94f4-c47e5153cfb0.jpeg)
-![image](https://user-images.githubusercontent.com/70125813/125123008-5ed95000-e0b3-11eb-825f-7cdaeab05434.jpeg)
 
 - The casino floor of our hotel was created through adaptive re-use of the Homestake Slime Plant which extracted gold from slime (a by-product of crushed ore that is suspended in water.) The gold came from the largest and deepest gold mine in North America in the town of Lead.  The casino is built on seven-foot thick concrete poured in 1935 with rafters overhead of Douglas fir from the Pacific Northwest, fitted into mortise and tenon joints.
 
@@ -170,6 +168,8 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ### Day V: Deadwood, SD --> Bozeman, MT -- Little Bighorn and Lots of Driving [7.7.21]
 
 - Deadwood has a on old gas station, called the Pump House, that’s been converted into a breakfast spot in the morning, a pizza place in the evening and a glass blowing studio at all hours. We liked it so much Michael and Nicole went twice before leaving Deadwood.
+![image](https://user-images.githubusercontent.com/70125813/125122849-33566580-e0b3-11eb-94f4-c47e5153cfb0.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125123008-5ed95000-e0b3-11eb-825f-7cdaeab05434.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125123033-68fb4e80-e0b3-11eb-937d-ef07e32b3593.jpeg)
 
 - The first time they went was after their morning run, the first stop on which was Mt. Moriah Cemetery, which is the final resting place of Wild Bill, Calamity Jane and lot of other people who died a long time ago.  
