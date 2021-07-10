@@ -220,6 +220,11 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - Dinner last night at the finest establishment Wells has to offer - Betaso's (fka Chinatown Restaurant).
 ![image](https://user-images.githubusercontent.com/70125813/125170428-dff02000-e163-11eb-9be4-ea1899a71d2f.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125170436-e7afc480-e163-11eb-99e7-63829dcffa70.jpeg)
+- Current location (9:58am PT), in google maps and our own personal "street view"
+![image](https://user-images.githubusercontent.com/70125813/125170777-7ec94c00-e165-11eb-89ab-068bb0319268.png)
+![image](https://user-images.githubusercontent.com/70125813/125170797-93a5df80-e165-11eb-8708-3c9149dc994a.jpeg)
+- Over the past couple of days, we've seen letters written in the side of mountains, like the "M" in this picture from the rooftop pool in Bozeman.  We assumed it was for Montana, but we've seen more since then with letters that don't correspond to the state that we've seen them in.  Anyone know what the story is with these letters?
+![image](https://user-images.githubusercontent.com/70125813/125170946-6443a280-e166-11eb-98c0-0d96d98da47e.jpeg)
 
 
 # Total Miles Covered: 2,780
