@@ -237,7 +237,12 @@ Stories, photos, and a mile count of our journey, day-by-day.
   - Montana: if you start to perform on stage, you are legally required to finish that performance.
   - Idaho: this is the only state with an active ban on cannibalism, even with consent.
   - Nevada: no throwing objects from a chairlift, so keep those beads and you-know-what-else on your body.
-
+- And now we're in CALIFORNIA!
+  - will try to get some better pics of the sierras, but here's an early one
+![image](https://user-images.githubusercontent.com/70125813/125176357-99142180-e187-11eb-95c8-b558f674c7bf.jpeg)
+- Graham's CA legal considerations:
+  - no eating frogs if you have first used them, or possessed them for use, in a frog-jumping competition
+  - in Chico, CA, use of a nuclear weapon results in a $500 fine, so you better not do it
 
 # Total Miles Covered: 2,780 + miles in progess today...
 
