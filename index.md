@@ -231,7 +231,12 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/125175942-6ddc0300-e184-11eb-8f0d-23e4b380d295.jpeg)
 - The last (and only other) time any of us was in Reno it was when Michael, Graham, Erik and Billy flew in and out of here on their way to Squaw.  Good times!
 ![image](https://user-images.githubusercontent.com/70125813/125175984-cf9c6d00-e184-11eb-969e-ce29b059546c.jpeg)
- 
+- Graham has continued to brief us on key legal considerations upon entry into each new state, but we haven't posted them here since Wisconsin.  Here they are:
+  - Minnesota: do not (1) participate in a contest in which the object it to catch a pig, greased, oiled or otherwise, or (2) throw a chicken or turkey into the air with the intent to catch it.
+  - South Dakota: do not, if in the town of Huron, cause static between the hours of 7am - 11pm.
+  - Montana: if you start to perform on stage, you are legally required to finish that performance.
+  - Idaho: this is the only state with an active ban on cannibalism, even with consent.
+  - Nevada: no throwing objects from a chairlift, so keep those beads and you-know-what-else on your body.
 
 
 # Total Miles Covered: 2,780 + miles in progess today...
