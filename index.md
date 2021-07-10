@@ -212,7 +212,11 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - It's our longest drive of the trip.  Internet connectivity permitting, we're going to do some live-blogging today.  
 - Marin is behind the wheel to start the day, as she has been almost every day.  
 ![image](https://user-images.githubusercontent.com/70125813/125169441-02336f00-e15f-11eb-9bd7-bde8ee20d0ae.jpeg)
-- We're listening to Barack Obama's summer playlist
+- We're taking a break from the California songs to listen to Barack Obama's summer playlist: https://twitter.com/barackobama/status/1413848757083545601?s=10
+- This house in Elko, NV built in the shape of Nevada or partially collapsed?
+![image](https://user-images.githubusercontent.com/70125813/125169920-41fb5600-e161-11eb-8c39-0eab4db7e280.jpeg)
+
+
 
 
 # Total Miles Covered: 2,780
