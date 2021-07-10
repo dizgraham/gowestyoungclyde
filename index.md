@@ -168,11 +168,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 - Deadwood has a on old gas station, called the Pump House, that’s been converted into a breakfast spot in the morning, a pizza place in the evening and a glass blowing studio at all hours. We liked it so much Michael and Nicole went twice before leaving Deadwood.
 ![image](https://user-images.githubusercontent.com/70125813/125122849-33566580-e0b3-11eb-94f4-c47e5153cfb0.jpeg)
+- The first time they went was after their morning run, the first stop on which was Mt. Moriah Cemetery, which is the final resting place of Wild Bill, Calamity Jane and lot of other people who died a long time ago.  
 ![image](https://user-images.githubusercontent.com/70125813/125123008-5ed95000-e0b3-11eb-825f-7cdaeab05434.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125123033-68fb4e80-e0b3-11eb-937d-ef07e32b3593.jpeg)
-
-- The first time they went was after their morning run, the first stop on which was Mt. Moriah Cemetery, which is the final resting place of Wild Bill, Calamity Jane and lot of other people who died a long time ago.  
-
 ![image](https://user-images.githubusercontent.com/70125813/125123053-6f89c600-e0b3-11eb-8636-c9c623c79db8.jpeg)
 - Other sites on the run included a vintage motorcycle restoration stop and a liquor store whose name suggests its clientele is of the place.  
 ![image](https://user-images.githubusercontent.com/70125813/125123076-76183d80-e0b3-11eb-803c-eb2caa9b2d71.jpeg)
