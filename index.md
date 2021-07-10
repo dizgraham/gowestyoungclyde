@@ -217,8 +217,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/125169920-41fb5600-e161-11eb-8c39-0eab4db7e280.jpeg)
 - A scene from inside (ok, this was ysterday, but it's a fun picture so I wanted to share)
 ![image](https://user-images.githubusercontent.com/70125813/125170247-e16d1880-e162-11eb-8757-df53461d18f7.jpeg)
-
-
+- Dinner last night at the finest establishment Wells has to offer - Betaso's (fka Chinatown Restaurant).
+![image](https://user-images.githubusercontent.com/70125813/125170428-dff02000-e163-11eb-9be4-ea1899a71d2f.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125170436-e7afc480-e163-11eb-99e7-63829dcffa70.jpeg)
 
 
 # Total Miles Covered: 2,780
