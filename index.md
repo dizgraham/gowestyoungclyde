@@ -153,14 +153,14 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/124856660-27aa5800-df68-11eb-9719-0cd3edaf1ed0.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856922-a0a9af80-df68-11eb-871a-09b2fd390cac.jpeg)
 
-- We drove all around the Black Hills, doused in thick veering of ponderosa pines and saw the stone profile of Crazy Horse, an ambitious project still under construction.  
+- We drove all around the Black Hills, doused in a thick covering of ponderosa pines and saw the stone profile of Crazy Horse, an ambitious project still under construction.  
 - ![image](https://user-images.githubusercontent.com/70125813/124857339-6096fc80-df69-11eb-9799-16056ce856d0.jpeg)
 
-- We ended our day in the town of Deadwood, SD.  Deadwood has been placed on the national register of historic places, which is not surprising when you see all of the preserved buildings from the late 19th century and early 20th century and read about its Wild West history.  We enjoyed a re-enactment of a shootout in the the street from the roof of the social club, overtop of saloon #10. 
+- We ended our day in the town of Deadwood, SD.  Deadwood has been placed on the national register of historic places, which is not surprising when you see all of the preserved buildings from the late 19th century and early 20th century and read about its Wild West history.  We enjoyed a re-enactment of a shootout in the street from the rooftop of The Social Club, atop Saloon #10. 
 ![image](https://user-images.githubusercontent.com/70125813/124856975-b61ed980-df68-11eb-92bc-801b98cedae4.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856989-bc14ba80-df68-11eb-942c-6b46601a2e00.jpeg)
 
-- The casino floor of our hotel was created through adaptive re-use of the Homestake Slime Plant which extracted gold from slime (a by-product of crushed ore that is suspended in water.) The gold came from the largest and deepest gold mine in North America in the town of Lead.  The casino is built on seven-foot thick concrete poured in 1935 with rafters overhead of Douglas fir from the Pacific Northwest, fitted into mortise and tenon joints.
+- The casino floor of our hotel was created through adaptive re-use of the Homestake Slime Plant which extracted gold from slime (a by-product of crushed ore that is suspended in water.) The gold came from the adjacent town of Lead in which the largest and deepest gold mine in North America was dug.  The casino rests upon the original concrete foundation poured in 1935 and contains rafters of Douglas Fir from the Pacific Northwest still held together with mortise and tenon joints.
 
 #### Miles Covered Today: 350
 
@@ -186,7 +186,27 @@ Stories, photos, and a mile count of our journey, day-by-day.
 
 ### Miles covered today: 430 (all Marin)
 
-# Total Miles Covered: 2,311
+### Day VI: Bozeman, MT [7.8.21]
+
+- Marin and Graham indulged in their day of rest with late afternoon crepes on Main Street. The highlight of our spa day was soaking up the sun by the pool on the roof.  Bozeman is beautifully situation in a valley with mountains surrounding.
+![image](https://user-images.githubusercontent.com/70125813/125150373-3de51f00-e0f4-11eb-9d85-c3f636d868bb.jpeg)
+
+###  Miles covered today: 2 by Nicole walking to the Safeway and back
+
+###  Day VII: Bozeman, MT --> Wells, NV [7.9.21]
+
+- The National Forest in the southwest corner of Montana took our breath away.  It pains us to not be able to walk or swim here.  The majestic outcroppings of rock, beautiful rivers and meadows of wildflowers had Michael reaching for superlatives to describe his awe.  He made up for the lack of vocabulary he could dredge up with his volume and reptition.  
+![image](https://user-images.githubusercontent.com/70125813/125150374-46d5f080-e0f4-11eb-9dec-7e04414218b8.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125150382-52c1b280-e0f4-11eb-8796-0d925a7c492f.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125150376-4d646800-e0f4-11eb-9168-d3d26af9f682.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125150451-b77d0d00-e0f4-11eb-9fb7-8105412ba56b.jpeg)
+
+- Leaving the forest we entered the arid and sagebrush-filled rolling hills of the Great Basin. 
+- Arriving in Wells, Michael shouted that there was a hole in the mountains.  All of us said no...it's snow, right?  Well no, it's not snow - it's a hole in the mountain!
+
+###  Miles covered today: 469
+
+# Total Miles Covered: 2,780
 
 
 
