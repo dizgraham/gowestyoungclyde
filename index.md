@@ -227,6 +227,11 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/125170946-6443a280-e166-11eb-98c0-0d96d98da47e.jpeg)
 - Just had a quick stop in Battle Mountain, which is featured in Glass Castle, by Jeannette Walls, a book that all four of us have read or are currently reading.  The only other book all four of us have read is Watership Down, which is a fantastic book that we highly recommend for readers of all ages (ok, there are some dark moments, so Gus and Hugh might not be ready for it; Arthur will handle it fine.  No one ever would ever worry about Juliette's ability to handle a little violence)!
 - Speaking of recommendations, let's have em - know any good books or movies about the west? (or just in general)
+- Status update: there's not much between Wells and Reno.  We just got to Reno, where Dave suggested we stop by the Golden Bugget, home to the Navy's annual tailhook gathering.  We declined, but here's a pic for you, Dave
+![image](https://user-images.githubusercontent.com/70125813/125175942-6ddc0300-e184-11eb-8f0d-23e4b380d295.jpeg)
+- The last (and only other) time any of us was in Reno it was when Michael, Graham, Erik and Billy flew in and out of here on their way to Squaw.  Good times!
+![image](https://user-images.githubusercontent.com/70125813/125175984-cf9c6d00-e184-11eb-969e-ce29b059546c.jpeg)
+ 
 
 
 # Total Miles Covered: 2,780 + miles in progess today...
