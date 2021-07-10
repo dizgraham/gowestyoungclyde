@@ -174,10 +174,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - The first time they went was after their morning run, the first stop on which was Mt. Moriah Cemetery, which is the final resting place of Wild Bill, Calamity Jane and lot of other people who died a long time ago.  
 
 ![image](https://user-images.githubusercontent.com/70125813/125123053-6f89c600-e0b3-11eb-8636-c9c623c79db8.jpeg)
+- Other sites on the run included a vintage motorcycle restoration stop and a liquor store whose name suggests its clientele is of the place.  
 ![image](https://user-images.githubusercontent.com/70125813/125123076-76183d80-e0b3-11eb-803c-eb2caa9b2d71.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125123228-a19b2800-e0b3-11eb-9499-d2d8b508b7b3.jpeg)
-
-- Other sites on the run included a vintage motorcycle restoration stop and a liquor store whose name suggests its clientele is of the place.  
 
 - We left Deadwood happy to have seen it but not feeling any strong desire to return.
 - We drove through the Northern Cheyenne and Crow reservations and miles and miles of ranch lands.  
