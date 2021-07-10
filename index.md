@@ -137,26 +137,29 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ### Day V: Chamberlain --> Deadwood, SD -- Badlands and Blackhills [7.6.21]
 
 - We left Chamberlain and headed for the Badlands.  On the way into the park, we pulled off and took a look at a preserved homesteader’s sod house from 1909, the signs for which boasted, among other things, rare white prairie dogs.  Once we walked past them, the prairie dogs (deemed vermin by Marin) popped out-our exclusive wildlife sighting thus far, sigh.
-![image](https://user-images.githubusercontent.com/70125813/124856381-a226a800-df67-11eb-8210-1d09d78e8a68.jpeg)
-![image](https://user-images.githubusercontent.com/70125813/124856484-d5693700-df67-11eb-9d15-4eaa5cd3aeb7.jpeg)
+
+![image](https://user-images.githubusercontent.com/70125813/125146141-4aa84980-e0d9-11eb-9487-5e1f19e53074.jpeg)
 
 - A note about the Badlands: The Lakota and French fur trappers agreed the land was inhospitable and difficult to traverse so the name has stuck.  The striated landforms are clayey structures that look like drip castles (Marin.) Graham was inspired to climb up onto the top of one so that he was the highest point in the landscape. The reddish layers of the Badlands contain fossilized material from sea creatures when the land was under water.
+![image](https://user-images.githubusercontent.com/70125813/124856381-a226a800-df67-11eb-8210-1d09d78e8a68.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856484-d5693700-df67-11eb-9d15-4eaa5cd3aeb7.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856567-fb8ed700-df67-11eb-9e4b-5b5c01d3bdac.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856573-ffbaf480-df67-11eb-8a9c-e18289e7ae11.jpeg)
-![image](https://user-images.githubusercontent.com/70125813/124856660-27aa5800-df68-11eb-9719-0cd3edaf1ed0.jpeg)
-![image](https://user-images.githubusercontent.com/70125813/124856922-a0a9af80-df68-11eb-871a-09b2fd390cac.jpeg)
-
 - We drove the scenic loop of this exotic landscape and exited at Wall, SD where we secured a bumper sticker (free!) for Marin’s friend from Wall Drug.
 - We had a fantastic lunch in Rapid City and were charmed by the old western buildings, numerous book and antique stores, and art alley.  We’ll take a college town anywhere.
 - After lunch we drove to Mount Rushmore.  It was powerful and beautiful and we loved it.  An historian had proposed a different collection of subjects, but the sculptor, Gutzon Borglum chose the four presidents to represent the birth, growth, development and preservation of our country.
-![image](https://user-images.githubusercontent.com/70125813/124856975-b61ed980-df68-11eb-92bc-801b98cedae4.jpeg)
-![image](https://user-images.githubusercontent.com/70125813/124856989-bc14ba80-df68-11eb-942c-6b46601a2e00.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856660-27aa5800-df68-11eb-9719-0cd3edaf1ed0.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856922-a0a9af80-df68-11eb-871a-09b2fd390cac.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/70125813/124857145-039b4680-df69-11eb-9cbc-d4f4f79c6565.jpeg)
 
 - We drove all around the Black Hills, doused in thick veering of ponderosa pines and saw the stone profile of Crazy Horse, an ambitious project still under construction.  
 - ![image](https://user-images.githubusercontent.com/70125813/124857339-6096fc80-df69-11eb-9799-16056ce856d0.jpeg)
 
 - We ended our day in the town of Deadwood, SD.  Deadwood has been placed on the national register of historic places, which is not surprising when you see all of the preserved buildings from the late 19th century and early 20th century and read about its Wild West history.  We enjoyed a re-enactment of a shootout in the the street from the roof of the social club, overtop of saloon #10. 
+![image](https://user-images.githubusercontent.com/70125813/124856975-b61ed980-df68-11eb-92bc-801b98cedae4.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124856989-bc14ba80-df68-11eb-942c-6b46601a2e00.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125122849-33566580-e0b3-11eb-94f4-c47e5153cfb0.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125123008-5ed95000-e0b3-11eb-825f-7cdaeab05434.jpeg)
 
