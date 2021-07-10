@@ -215,6 +215,8 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - We're taking a break from the California songs to listen to Barack Obama's summer playlist: https://twitter.com/barackobama/status/1413848757083545601?s=10
 - This house in Elko, NV built in the shape of Nevada or partially collapsed?
 ![image](https://user-images.githubusercontent.com/70125813/125169920-41fb5600-e161-11eb-8c39-0eab4db7e280.jpeg)
+- A scene from inside (ok, this was ysterday, but it's a fun picture so I wanted to share)
+![image](https://user-images.githubusercontent.com/70125813/125170247-e16d1880-e162-11eb-8757-df53461d18f7.jpeg)
 
 
 
