@@ -189,17 +189,17 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ### Day VI: Bozeman, MT [7.8.21]
 
 - Marin and Graham indulged in their day of rest with late afternoon crepes on Main Street. The highlight of our spa day was soaking up the sun by the pool on the roof.  Bozeman is beautifully situation in a valley with mountains surrounding.
-![image](https://user-images.githubusercontent.com/70125813/125150373-3de51f00-e0f4-11eb-9d85-c3f636d868bb.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/125150451-b77d0d00-e0f4-11eb-9fb7-8105412ba56b.jpeg)
 
 ###  Miles covered today: 2 by Nicole walking to the Safeway and back
 
 ###  Day VII: Bozeman, MT --> Wells, NV [7.9.21]
 
 - The National Forest in the southwest corner of Montana took our breath away.  It pains us to not be able to walk or swim here.  The majestic outcroppings of rock, beautiful rivers and meadows of wildflowers had Michael reaching for superlatives to describe his awe.  He made up for the lack of vocabulary he could dredge up with his volume and reptition.  
+![image](https://user-images.githubusercontent.com/70125813/125150373-3de51f00-e0f4-11eb-9d85-c3f636d868bb.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125150374-46d5f080-e0f4-11eb-9dec-7e04414218b8.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125150382-52c1b280-e0f4-11eb-8796-0d925a7c492f.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/125150376-4d646800-e0f4-11eb-9168-d3d26af9f682.jpeg)
-![image](https://user-images.githubusercontent.com/70125813/125150451-b77d0d00-e0f4-11eb-9fb7-8105412ba56b.jpeg)
 
 - Leaving the forest we entered the arid and sagebrush-filled rolling hills of the Great Basin. 
 - Arriving in Wells, Michael shouted that there was a hole in the mountains.  All of us said no...it's snow, right?  Well no, it's not snow - it's a hole in the mountain!
