@@ -243,6 +243,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - Graham's CA legal considerations:
   - no eating frogs if you have first used them, or possessed them for use, in a frog-jumping competition
   - in Chico, CA, use of a nuclear weapon results in a $500 fine, so you better not do it
+- Another status update: 
+![image](https://user-images.githubusercontent.com/70125813/125178523-b0a8d580-e19a-11eb-9f02-86641e91b53c.jpeg)
+  - we made it over the pass without eating each other (and mostly without wanting to kill each other)
 
 # Total Miles Covered: 2,780 + miles in progess today...
 
