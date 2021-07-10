@@ -145,14 +145,13 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/124856484-d5693700-df67-11eb-9d15-4eaa5cd3aeb7.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856567-fb8ed700-df67-11eb-9e4b-5b5c01d3bdac.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856573-ffbaf480-df67-11eb-8a9c-e18289e7ae11.jpeg)
+![image](https://user-images.githubusercontent.com/70125813/124857145-039b4680-df69-11eb-9cbc-d4f4f79c6565.jpeg)
+
 - We drove the scenic loop of this exotic landscape and exited at Wall, SD where we secured a bumper sticker (free!) for Marin’s friend from Wall Drug.
 - We had a fantastic lunch in Rapid City and were charmed by the old western buildings, numerous book and antique stores, and art alley.  We’ll take a college town anywhere.
 - After lunch we drove to Mount Rushmore.  It was powerful and beautiful and we loved it.  An historian had proposed a different collection of subjects, but the sculptor, Gutzon Borglum chose the four presidents to represent the birth, growth, development and preservation of our country.
 ![image](https://user-images.githubusercontent.com/70125813/124856660-27aa5800-df68-11eb-9719-0cd3edaf1ed0.jpeg)
 ![image](https://user-images.githubusercontent.com/70125813/124856922-a0a9af80-df68-11eb-871a-09b2fd390cac.jpeg)
-
-
-![image](https://user-images.githubusercontent.com/70125813/124857145-039b4680-df69-11eb-9cbc-d4f4f79c6565.jpeg)
 
 - We drove all around the Black Hills, doused in thick veering of ponderosa pines and saw the stone profile of Crazy Horse, an ambitious project still under construction.  
 - ![image](https://user-images.githubusercontent.com/70125813/124857339-6096fc80-df69-11eb-9799-16056ce856d0.jpeg)
