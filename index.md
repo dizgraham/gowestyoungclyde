@@ -202,9 +202,18 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/125150376-4d646800-e0f4-11eb-9168-d3d26af9f682.jpeg)
 
 - Leaving the forest we entered the arid and sagebrush-filled rolling hills of the Great Basin. 
-- Arriving in Wells, Michael shouted that there was a hole in the mountains.  All of us said no...it's snow, right?  Well no, it's not snow - it's a hole in the mountain!
+- Arriving in Wells, Michael shouted that there was a hole in the mountains.  All of us said no...it's snow, right?  Well no, it's not snow - it's a hole in the mountain! https://en.wikipedia.org/wiki/Hole_in_the_Mountain_Peak
 
 ###  Miles covered today: 469
+
+###  Day VIII: Wells, NV --> Mill Valley, CA -- LAST DAY! [7.10.21]
+
+- A mix of emotions as we got up and got on the road this morning. Sadness to leave Wells is not one of them, though.  A quick breakfast courtesy of the Hampton Inn and we were on our way.
+- It's our longest drive of the trip.  Internet connectivity permitting, we're going to do some live-blogging today.  
+- Marin is behind the wheel to start the day, as she has been almost every day.  
+![image](https://user-images.githubusercontent.com/70125813/125169441-02336f00-e15f-11eb-9bd7-bde8ee20d0ae.jpeg)
+- We're listening to Barack Obama's summer playlist
+
 
 # Total Miles Covered: 2,780
 
