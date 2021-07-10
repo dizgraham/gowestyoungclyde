@@ -225,6 +225,7 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/125170797-93a5df80-e165-11eb-8708-3c9149dc994a.jpeg)
 - Over the past couple of days, we've seen letters written in the side of mountains, like the "M" in this picture from the rooftop pool in Bozeman.  We assumed it was for Montana, but we've seen more since then with letters that don't correspond to the state that we've seen them in.  Anyone know what the story is with these letters?
 ![image](https://user-images.githubusercontent.com/70125813/125170946-6443a280-e166-11eb-98c0-0d96d98da47e.jpeg)
+- Just had a quick stop in Battle Mountain, which is featured in Glass Castle, Jeannette Walls, a book that all four of us have read or are currently reading.  The only other book all four of us have read is Watership Down, which is a fantastic book!
 
 
 # Total Miles Covered: 2,780
