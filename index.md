@@ -247,6 +247,9 @@ Stories, photos, and a mile count of our journey, day-by-day.
 ![image](https://user-images.githubusercontent.com/70125813/125178523-b0a8d580-e19a-11eb-9f02-86641e91b53c.jpeg)
   - we made it over the pass without eating each other (and mostly without wanting to kill each other)
 - We're in the home stretch.  Marin's behind the wheel, as is only fitting for the drive into Marin.
+- Hills just west of Sacramento are beautiful, but look very dry
+![image](https://user-images.githubusercontent.com/70125813/125178804-fc5c7e80-e19c-11eb-8318-e39c92443223.jpeg)
+
 
 # Total Miles Covered: 2,780 + miles in progess today...
 
