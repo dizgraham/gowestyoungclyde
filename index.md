@@ -249,9 +249,16 @@ Stories, photos, and a mile count of our journey, day-by-day.
 - We're in the home stretch.  Marin's behind the wheel, as is only fitting for the drive into Marin.
 - Hills just west of Sacramento are beautiful, but look very dry
 ![image](https://user-images.githubusercontent.com/70125813/125178804-fc5c7e80-e19c-11eb-8318-e39c92443223.jpeg)
+- We made it!!
+![image](https://user-images.githubusercontent.com/70125813/125179908-59116680-e1a8-11eb-8ed5-4d1199e8e87a.jpeg)
+
+![image](https://user-images.githubusercontent.com/70125813/125179944-e359ca80-e1a8-11eb-8c52-2e65b401e1d1.jpeg)
 
 
-# Total Miles Covered: 2,780 + miles in progess today...
+###  Miles covered today: 558
+
+
+# Total Miles Covered: 3,338
 
 
 
